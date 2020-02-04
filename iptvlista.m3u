@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png" group-title="Aberta",AXN HD
+http://187.120.222.12:8000/play/AXNLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",BBBHDTOTAL
+http://187.120.222.12:8000/play/BBBHD3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",BBB HD 1
+http://187.120.222.12:8000/play/BBBHD1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",BBB HD 1
+http://187.120.222.12:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",BBBHD2
+http://187.120.222.12:8000/play/BBBHD2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Boa Vontade TV
+http://187.120.222.12:8000/play/BoaVontade/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Canal Rural
+http://187.120.222.12:8000/play/CanalRural/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Canal Sony HD
+http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Cultura HD
+http://187.120.222.12:8000/play/TVCultura/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",FOX HD
+http://187.120.222.12:8000/play/FOXLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",FOX Life HD
+http://187.120.222.12:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",FX HD
+http://187.120.222.12:8000/play/FXLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",GloboNews HD
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO Family HD
+http://187.120.222.12:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO HD
+http://187.120.222.12:8000/play/HBOLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO Signature HD
+http://187.120.222.12:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO+ HD
+http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO2 HD
+http://187.120.222.12:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Like HD
+http://187.120.222.12:8000/play/Like/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",MAX UP HD
+http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Megapix HD
+http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",PlayTV
+http://187.120.222.12:8000/play/PlayTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Polishop TV
+http://187.120.222.12:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Premiere Clubes HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Sextreme
+http://187.120.222.12:8000/play/Sextreme/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Space HD
+http://187.120.222.12:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TCM
+http://187.120.222.12:8000/play/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TNT HD
+http://187.120.222.12:8000/play/TNTLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TNT Series HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TV Cancao Nova
+http://187.120.222.12:8000/play/CancaoNova/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TV Camara
+http://187.120.222.12:8000/play/TVCamara/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TV Escola
+http://187.120.222.12:8000/play/TVEscola/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TV JustiĿa
+http://187.120.222.12:8000/play/TVJustica/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TV Senado
+http://187.120.222.12:8000/play/TVSenado/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",TV TEM SJRP - Globo HD
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Action HD
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Cult HD
+http://187.120.222.12:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Fun HD
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Pipoca HD
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Premium HD
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Touch HD
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Tooncast
+http://187.120.222.12:8000/play/Tooncast/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Universal TV HD
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",VH1 Mega Hits 
+http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Warner HD
+http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Aberta", TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
