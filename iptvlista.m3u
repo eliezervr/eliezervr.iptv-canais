@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png" group-title="Aberta",AXN HD
 http://187.120.222.12:8000/play/AXNLEG/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/hSG2ivb" group-title="Aberta",BBBHDTOTAL
+#EXTINF:-1 tvg-logo="https://static1.purebreak.com.br/articles/4/92/19/4/@/354469--bbb20-veja-tudo-ja-sabemos-sobre-a-pr-diapo-2.jpg" group-title="Aberta",BBBHDTOTAL
 http://187.120.222.12:8000/play/BBBHD3/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/hSG2ivb" group-title="Aberta",BBB HD 1
+#EXTINF:-1 tvg-logo="https://static1.purebreak.com.br/articles/4/92/19/4/@/354469--bbb20-veja-tudo-ja-sabemos-sobre-a-pr-diapo-2.jpg" group-title="Aberta",BBB HD 1
 http://187.120.222.12:8000/play/BBBHD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/hSG2ivb" group-title="Aberta",BBB HD 1
+#EXTINF:-1 tvg-logo="https://static1.purebreak.com.br/articles/4/92/19/4/@/354469--bbb20-veja-tudo-ja-sabemos-sobre-a-pr-diapo-2.jpg" group-title="Aberta",BBB HD 1
 http://187.120.222.12:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/hSG2ivb" group-title="Aberta",BBBHD2
+#EXTINF:-1 tvg-logo="https://static1.purebreak.com.br/articles/4/92/19/4/@/354469--bbb20-veja-tudo-ja-sabemos-sobre-a-pr-diapo-2.jpg" group-title="Aberta",BBBHD2
 http://187.120.222.12:8000/play/BBBHD2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Boa Vontade TV
 http://187.120.222.12:8000/play/BoaVontade/index.m3u8
