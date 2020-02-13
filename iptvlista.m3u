@@ -1,5 +1,6 @@
 #EXTM3U
 
+#PLAYLISTV: pltv-logo="/iptv-list.jpg" pltv-name="Eliezer" pltv-description="eliptv2" pltv-cover="/iptv-list.jpg" pltv-author="Eliezer de Oliveira" pltv-email="eliezer.vr2@gmail.com"
 ################################################## ABERTA ###################################################
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Globo.png" group-title="TV Aberta",Globo HD
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
