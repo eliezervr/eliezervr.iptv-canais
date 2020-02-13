@@ -42,6 +42,8 @@ http://187.120.222.12:8000/play/FOXLEG/index.m3u8
 http://187.120.222.12:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Séries",FX HD
 http://187.120.222.12:8000/play/FXLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/In0" group-title="Canais | Filmes e Séries",TNT Series HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 
 ################################################## FILMES ###################################################
 #EXTINF:-1 tvg-logo="http://iv.pe/1Lz" group-title="Filmes",HBO Family HD 
@@ -58,19 +60,15 @@ http://187.120.222.12:8000/play/a00i/index.m3u8
 http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/lvs" group-title="Filmes",Megapix HD
 http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TCM.png" group-title="Aberta",TCM
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes", TCM
 http://187.120.222.12:8000/play/TCM/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",TNT HD
+#EXTINF:-1 tvg-logo="http://iv.pe/y4E" group-title="Filmes",TNT HD
 http://187.120.222.12:8000/play/TNTLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",TNT Series HD
-http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Action HD
 http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Cult HD
 http://187.120.222.12:8000/play/a00b/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Fun HD
 http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Pipoca HD
@@ -88,12 +86,11 @@ http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Warner HD
 http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",GloboNews HD
+################################################## NOTÍCIAS ###################################################
+#EXTINF:-1 tvg-logo="http://iv.pe/qsL" group-title="Notícias",Globo News HD
 http://187.120.222.12:8000/play/GloboNews/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Polishop TV
-http://187.120.222.12:8000/play/PolishopTV/index.m3u8
-
+################################################## ESPORTES ###################################################
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="ESPORTE",Premiere 2 HD
 http://187.120.222.12:8000/play/PFC2/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="ESPORTE",Premiere 5 HD
@@ -101,12 +98,15 @@ http://187.120.222.12:8000/play/PFC5/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="ESPORTE",Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 
+################################################## ADULTOS ###################################################
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="XXXADULTOS",Sextreme
 http://187.120.222.12:8000/play/Sextreme/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://iv.pe/4Nz" group-title="Canais | Alternativos",Play TV
+################################################## VARIEDADES ###################################################
+#EXTINF:-1 tvg-logo="http://iv.pe/4Nz" group-title="Variedades",Play TV
 http://187.120.222.12:8000/play/PlayTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Like HD
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Like HD
 http://187.120.222.12:8000/play/Like/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Polishop TV
+http://187.120.222.12:8000/play/PolishopTV/index.m3u8
 
