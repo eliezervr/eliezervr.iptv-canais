@@ -107,7 +107,7 @@ http://187.120.222.12:8000/play/Sextreme/index.m3u8
 ################################################## VARIEDADES ###################################################
 #EXTINF:-1 tvg-logo="http://iv.pe/4Nz" group-title="Variedades",Play TV
 http://187.120.222.12:8000/play/PlayTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Like HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJNZAw4.png" group-title="Variedades",Like HD
 http://187.120.222.12:8000/play/Like/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/y4S" group-title="Variedades",VH1 MegaHits
 http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
