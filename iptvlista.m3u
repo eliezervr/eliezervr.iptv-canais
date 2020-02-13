@@ -101,7 +101,7 @@ http://187.120.222.12:8000/play/PFC5/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="ESPORTE",Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="ADULTOS",Sextreme
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="XXXADULTOS",Sextreme
 http://187.120.222.12:8000/play/Sextreme/index.m3u8
 
 
