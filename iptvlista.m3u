@@ -1,13 +1,4 @@
 #EXTM3U
-################################################## BBB ###################################################
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Mosáico
-http://187.120.222.12:8000/play/BBBHD3/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 1
-http://187.120.222.12:8000/play/BBBHD1/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 1
-http://187.120.222.12:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 3
-http://187.120.222.12:8000/play/BBBHD2/index.m3u8
 
 ################################################## ABERTA ###################################################
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Globo.png" group-title="TV Aberta",Globo HD
@@ -30,24 +21,16 @@ http://187.120.222.12:8000/play/CanalRural/index.m3u8
 http://187.120.222.12:8000/play/BoaVontade/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.redeatividade.com/web/wp-content/uploads/2019/06/logo_2019_3.png" group-title="TV Aberta", Canal FCV
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Polishop.png" group-title="TV Aberta",Polishop TV
+http://187.120.222.12:8000/play/PolishopTV/index.m3u8
 
-################################################## SÉRIES ###################################################
-#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Séries",AXN HD
-http://187.120.222.12:8000/play/AXNLEG/index.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Séries",Canal Sony HD
-http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Séries",FOX HD
-http://187.120.222.12:8000/play/FOXLEG/index.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title="Séries",FOX Life HD
-http://187.120.222.12:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Séries",FX HD
-http://187.120.222.12:8000/play/FXLEG/index.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/In0" group-title="Séries",TNT Series HD
-http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Universal%20TV.png" group-title="Séries",Universal TV HD
-http://187.120.222.12:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Séries",Warner Channel HD
-http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+################################################## ESPORTES ###################################################
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esportes",Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Esportes",Premiere Clubes HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 
 ################################################## FILMES ###################################################
 #EXTINF:-1 tvg-logo="http://iv.pe/1Lz" group-title="Filmes",HBO Family HD 
@@ -89,13 +72,33 @@ http://187.120.222.12:8000/play/Tooncast/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/qsL" group-title="Notícias",Globo News HD
 http://187.120.222.12:8000/play/GloboNews/index.m3u8
 
-################################################## ESPORTES ###################################################
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Premiere 2 HD
-http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esportes",Premiere 5 HD
-http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Esportes",Premiere Clubes HD
-http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+################################################## REALITY ###################################################
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Mosáico
+http://187.120.222.12:8000/play/BBBHD3/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 1
+http://187.120.222.12:8000/play/BBBHD1/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 2
+http://187.120.222.12:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 3
+http://187.120.222.12:8000/play/BBBHD2/index.m3u8
+
+################################################## SÉRIES ###################################################
+#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Séries",AXN HD
+http://187.120.222.12:8000/play/AXNLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Séries",Canal Sony HD
+http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Séries",FOX HD
+http://187.120.222.12:8000/play/FOXLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title="Séries",FOX Life HD
+http://187.120.222.12:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Séries",FX HD
+http://187.120.222.12:8000/play/FXLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/In0" group-title="Séries",TNT Series HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Universal%20TV.png" group-title="Séries",Universal TV HD
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Séries",Warner Channel HD
+http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 
 ################################################## ADULTOS ###################################################
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="XXXADULTOS",Sextreme
@@ -106,8 +109,6 @@ http://187.120.222.12:8000/play/Sextreme/index.m3u8
 http://187.120.222.12:8000/play/PlayTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Like HD
 http://187.120.222.12:8000/play/Like/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Polishop TV
-http://187.120.222.12:8000/play/PolishopTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/y4S" group-title="Variedades",VH1 MegaHits
 http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
 
