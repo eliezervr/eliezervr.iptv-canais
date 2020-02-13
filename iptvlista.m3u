@@ -6,8 +6,6 @@
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="TV Aberta",Cultura HD
 http://187.120.222.12:8000/play/TVCultura/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="TV Aberta",TV Cancao Nova
-http://187.120.222.12:8000/play/CancaoNova/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Escola.png" group-title="TV Aberta",TV Escola
 http://187.120.222.12:8000/play/TVEscola/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20C%C3%A2mara.png" group-title="TV Aberta",TV Camara
@@ -18,8 +16,6 @@ http://187.120.222.12:8000/play/TVJustica/index.m3u8
 http://187.120.222.12:8000/play/TVSenado/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Canal%20Rural.png" group-title="TV Aberta",Canal Rural
 http://187.120.222.12:8000/play/CanalRural/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="TV Aberta",Boa Vontade TV
-http://187.120.222.12:8000/play/BoaVontade/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.redeatividade.com/web/wp-content/uploads/2019/06/logo_2019_3.png" group-title="TV Aberta", Canal FCV
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/Polishop.png" group-title="TV Aberta",Polishop TV
@@ -82,6 +78,12 @@ http://187.120.222.12:8000/play/BBBHD1/index.m3u8
 http://187.120.222.12:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 3
 http://187.120.222.12:8000/play/BBBHD2/index.m3u8
+
+################################################## RELIGIOSO ###################################################
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="TV Aberta",TV Cancao Nova
+http://187.120.222.12:8000/play/CancaoNova/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="TV Aberta",Boa Vontade TV
+http://187.120.222.12:8000/play/BoaVontade/index.m3u8
 
 ################################################## SÉRIES ###################################################
 #EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Séries",AXN HD
