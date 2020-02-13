@@ -44,6 +44,10 @@ http://187.120.222.12:8000/play/a00q/index.m3u8
 http://187.120.222.12:8000/play/FXLEG/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/In0" group-title="Séries",TNT Series HD
 http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Universal%20TV.png" group-title="Séries",Universal TV HD
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Séries",Warner Channel HD
+http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 
 ################################################## FILMES ###################################################
 #EXTINF:-1 tvg-logo="http://iv.pe/1Lz" group-title="Filmes",HBO Family HD 
@@ -64,27 +68,22 @@ http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
 http://187.120.222.12:8000/play/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/y4E" group-title="Filmes",TNT HD
 http://187.120.222.12:8000/play/TNTLEG/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Action HD
+#EXTINF:-1 tvg-logo="http://iv.pe/Csv" group-title="Filmes",Telecine Action HD
 http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Cult HD
+#EXTINF:-1 tvg-logo="http://iv.pe/cli" group-title="Filmes",Telecine Cult HD
 http://187.120.222.12:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Fun HD
+#EXTINF:-1 tvg-logo="http://iv.pe/lVw" group-title="Filmes",Telecine Fun HD
 http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Pipoca HD
+#EXTINF:-1 tvg-logo="http://iv.pe/GLD" group-title="Filmes",Telecine Pipoca HD
 http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Premium HD
+#EXTINF:-1 tvg-logo="http://iv.pe/9yf" group-title="Filmes",Telecine Premium HD
 http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Telecine Touch HD
+#EXTINF:-1 tvg-logo="http://iv.pe/lSn" group-title="Filmes",Telecine Touch HD
 http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Tooncast
+
+################################################## INFANTIL ###################################################
+#EXTINF:-1 tvg-logo="http://iv.pe/Rnv" group-title="Infantil",Tooncast
 http://187.120.222.12:8000/play/Tooncast/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Universal TV HD
-http://187.120.222.12:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",VH1 Mega Hits 
-http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Warner HD
-http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 
 ################################################## NOTÍCIAS ###################################################
 #EXTINF:-1 tvg-logo="http://iv.pe/qsL" group-title="Notícias",Globo News HD
@@ -109,4 +108,6 @@ http://187.120.222.12:8000/play/PlayTV/index.m3u8
 http://187.120.222.12:8000/play/Like/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Polishop TV
 http://187.120.222.12:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/y4S" group-title="Variedades",VH1 MegaHits
+http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
 
