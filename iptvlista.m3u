@@ -1,80 +1,81 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="BBB20",BBBHDTOTAL
+################################################## BBB ###################################################
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Mosáico
 http://187.120.222.12:8000/play/BBBHD3/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="BBB20",BBB HD 1
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 1
 http://187.120.222.12:8000/play/BBBHD1/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="BBB20",BBB HD 1
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 1
 http://187.120.222.12:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="BBB20",BBBHD2
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/bbb/Big%20Brother%20Brasil%2020.png" group-title="Reality",Câmera 3
 http://187.120.222.12:8000/play/BBBHD2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Aberta",Globo HD
+################################################## ABERTA ###################################################
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Globo.png" group-title="TV Aberta",Globo HD
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Aberta",Cultura HD
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="TV Aberta",Cultura HD
 http://187.120.222.12:8000/play/TVCultura/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="Aberta",TV Cancao Nova
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="TV Aberta",TV Cancao Nova
 http://187.120.222.12:8000/play/CancaoNova/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Escola.png" group-title="Aberta",TV Escola
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Escola.png" group-title="TV Aberta",TV Escola
 http://187.120.222.12:8000/play/TVEscola/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20C%C3%A2mara.png" group-title="Aberta",TV Camara
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20C%C3%A2mara.png" group-title="TV Aberta",TV Camara
 http://187.120.222.12:8000/play/TVCamara/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Justi%C3%A7a.png" group-title="Aberta",TV Justiça
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Justi%C3%A7a.png" group-title="TV Aberta",TV Justiça
 http://187.120.222.12:8000/play/TVJustica/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Senado.png" group-title="Aberta",TV Senado
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TV%20Senado.png" group-title="TV Aberta",TV Senado
 http://187.120.222.12:8000/play/TVSenado/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Canal%20Rural.png" group-title="Aberta",Canal Rural
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Canal%20Rural.png" group-title="TV Aberta",Canal Rural
 http://187.120.222.12:8000/play/CanalRural/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="Aberta",Boa Vontade TV
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="TV Aberta",Boa Vontade TV
 http://187.120.222.12:8000/play/BoaVontade/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redeatividade.com/web/wp-content/uploads/2019/06/logo_2019_3.png" group-title="Aberta", Canal FCV
+#EXTINF:-1 tvg-logo="https://www.redeatividade.com/web/wp-content/uploads/2019/06/logo_2019_3.png" group-title="TV Aberta", Canal FCV
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Aberta",AXN HD
+################################################## SÉRIES ###################################################
+#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Séries",AXN HD
 http://187.120.222.12:8000/play/AXNLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Canal Sony HD
+#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Séries",Canal Sony HD
 http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Aberta",FOX HD
+#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Séries",FOX HD
 http://187.120.222.12:8000/play/FOXLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",FOX Life HD
+#EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title="Séries",FOX Life HD
 http://187.120.222.12:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",FX HD
+#EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title="Séries",FX HD
 http://187.120.222.12:8000/play/FXLEG/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Notícias",GloboNews HD
-http://187.120.222.12:8000/play/GloboNews/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO Family HD
+################################################## FILMES ###################################################
+#EXTINF:-1 tvg-logo="http://iv.pe/1Lz" group-title="Filmes",HBO Family HD 
 http://187.120.222.12:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO HD
+#EXTINF:-1 tvg-logo="http://iv.pe/muz" group-title="Filmes",HBO HD
 http://187.120.222.12:8000/play/HBOLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO Signature HD
+#EXTINF:-1 tvg-logo="http://iv.pe/dZG" group-title="Filmes",HBO Signature HD
 http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO+ HD
+#EXTINF:-1 tvg-logo="http://iv.pe/4i0" group-title="Filmes",HBO Plus HD
 http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",HBO2 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/hBW" group-title="Filmes",HBO 2 HD
 http://187.120.222.12:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",Like HD
-http://187.120.222.12:8000/play/Like/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Aberta",MAX UP HD
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/Max_UP.png" group-title="Filmes", Max UP HD
 http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Megapix HD
 http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta",PlayTV
 http://187.120.222.12:8000/play/PlayTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",GloboNews HD
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Polishop TV
 http://187.120.222.12:8000/play/PolishopTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esporte",Premiere 2 HD
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="ESPORTE",Premiere 2 HD
 http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esporte",Premiere 5 HD
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="ESPORTE",Premiere 5 HD
 http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Esporte",Premiere Clubes HD
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="ESPORTE",Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="Adulto",Sextreme
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="ADULTOS",Sextreme
 http://187.120.222.12:8000/play/Sextreme/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://printv.esy.es/server/TCM.png" group-title="Aberta",TCM
@@ -105,4 +106,7 @@ http://187.120.222.12:8000/play/UniversalTV/index.m3u8
 http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta",Warner HD
 http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Aberta",Like HD
+http://187.120.222.12:8000/play/Like/index.m3u8
 
